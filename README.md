@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grand-kanyin
 - 👀 I’m interested in ... Robotics and Automation
-- 🌱 I’m currently learning ... about Controls Engineering and Control systmems
+- 🌱 I’m currently learning ... about Controls Engineering and Control systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
